@@ -269,15 +269,9 @@ All outputs should be treated as decision-support suggestions requiring human ve
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Authors
 
-Built by the Aegis team.
+Built by: Steven Ngo, Howard Lin, Elliott Yaroslavsky, Aarav Trivedi
 
 ---
 
